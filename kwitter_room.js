@@ -49,7 +49,7 @@ getData();
 
 function redirectToRoomName(name) {
 localStorage.setItem("room_name",name);
-window.location="Kwitter_page.html";
+window.location="kwitter_page.html";
 }
 
 
